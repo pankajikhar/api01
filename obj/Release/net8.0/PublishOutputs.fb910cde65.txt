@@ -1,0 +1,12 @@
+D:\classcode\classpai\bin\Release\net8.0\publish\classpai.exe
+D:\classcode\classpai\bin\Release\net8.0\publish\appsettings.Development.json
+D:\classcode\classpai\bin\Release\net8.0\publish\appsettings.json
+D:\classcode\classpai\bin\Release\net8.0\publish\classpai.dll
+D:\classcode\classpai\bin\Release\net8.0\publish\classpai.deps.json
+D:\classcode\classpai\bin\Release\net8.0\publish\classpai.runtimeconfig.json
+D:\classcode\classpai\bin\Release\net8.0\publish\classpai.pdb
+D:\classcode\classpai\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\classcode\classpai\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+D:\classcode\classpai\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\classcode\classpai\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\classcode\classpai\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
