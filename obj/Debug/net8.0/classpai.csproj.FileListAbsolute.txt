@@ -31,3 +31,4 @@ D:\classcode\classpai\obj\Debug\net8.0\refint\classpai.dll
 D:\classcode\classpai\obj\Debug\net8.0\classpai.pdb
 D:\classcode\classpai\obj\Debug\net8.0\classpai.genruntimeconfig.cache
 D:\classcode\classpai\obj\Debug\net8.0\ref\classpai.dll
+D:\classcode\classpai\obj\Debug\net8.0\classpai.sourcelink.json
